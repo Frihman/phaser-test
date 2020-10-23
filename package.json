@@ -1,0 +1,28 @@
+{
+  "name": "phaser-test",
+  "version": "1.0.0",
+  "main": "public",
+  "dependencies": {
+    "express": "^4.17.1",
+    "http-server": "^0.12.3",
+    "nodemon": "^2.0.6",
+    "phaser": "^3.24.1"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "http-server"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Frihman/phaser-test.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Frihman/phaser-test/issues"
+  },
+  "homepage": "https://github.com/Frihman/phaser-test#readme",
+  "keywords": [],
+  "description": ""
+}
